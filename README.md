@@ -1,6 +1,6 @@
-## Title: IRIS Dataset Advanced Visualizations
+## Title: Heart Dataset Analysis
 
-This repository contains an advanced data visualization project using Python with the IMDB Movie Dataset. The IMDB dataset is a popular dataset in machine learning and data analysis, and in this project, I've taken it a step further by implementing advanced visualization techniques to gain deeper insights.
+This repository contains an advanced data analysis and visualization project using Python with the Heart Dataset. I've taken the project a step further by implementing advanced analysis and visualization techniques to gain deeper insights.
 
 ### A. Dataset Description: 
 The dataset contains various attributes related to heart to be examined such as trestbps, chol, restecg, thalach, exang, oldpeak, etc.
