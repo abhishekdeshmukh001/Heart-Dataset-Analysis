@@ -16,6 +16,19 @@ In this project, I've applied advanced data visualization techniques such as:
       2. Heatmap that visually represents the correlations between different variables in your dataset, likely related to heart disease.
       3. Pairplot - Generating a grid of scatterplots that are helpful for exploring the relationships, correlations, and distributions between these numerical variables in the dataset.
 
+## Screenshots
+
+- ***Catplot***
+
+![App Screenshot](https://github.com/abhishekdeshmukh001/Heart-Dataset-Analysis/blob/main/Catplot.png?raw=true)
+
+- ***HeatMap***
+
+![App Screenshot](https://github.com/abhishekdeshmukh001/Heart-Dataset-Analysis/blob/main/Heatmap.png?raw=true)
+
+- ***Pairplot***
+
+![App Screenshot](https://github.com/abhishekdeshmukh001/Heart-Dataset-Analysis/blob/main/Pairplot.png?raw=true)
 
 
 ## 🔗 Link
